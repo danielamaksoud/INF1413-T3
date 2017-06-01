@@ -18,9 +18,9 @@ Nome | Descrição
 **[RELATORIO.md](https://github.com/danielamaksoud/INF1413-T3/blob/master/Documenta%C3%A7%C3%A3o/RELATORIO.md)** | Relatório do processo de desenvolvimento do trabalho
 **[Trabalho3_BBDBLM_Item1.doc](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/doc/Trabalho3_BBDBLM_Item1.doc)**, **[Trabalho3_BBDBLM_Item1.pdf](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/pdf/Trabalho3_BBDBLM_Item1.pdf)** | Solução da primeira tarefa do trabalho
 **[Trabalho3_BBDBLM_Item2.doc](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/doc/Trabalho3_BBDBLM_Item2.doc)**, **[Trabalho3_BBDBLM_Item2.pdf](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/pdf/Trabalho3_BBDBLM_Item2.pdf)** | Solução da segunda tarefa do trabalho
-**[Tarefa3.doc](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/doc/Tarefa3.doc)**, **[Tarefa3.pdf](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/pdf/Tarefa3.pdf)** | Solução da terceira tarefa do trabalho
-**[Tarefa4.doc](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/doc/Tarefa4.doc)**, **[Tarefa4.pdf](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/pdf/Tarefa4.pdf)** | Solução da quarta tarefa do trabalho
-**[Tarefa5.doc](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/doc/Tarefa5.doc)**, **[Tarefa5.pdf](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/pdf/Tarefa5.pdf)** | Solução da quinta tarefa do trabalho
+**[Trabalho3_BBDBLM_Item3.doc](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/doc/Trabalho3_BBDBLM_Item3.doc)**, **[Trabalho3_BBDBLM_Item3.pdf](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/pdf/Trabalho3_BBDBLM_Item3.pdf)** | Solução da terceira tarefa do trabalho
+**[Trabalho3_BBDBLM_Item4.doc](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/doc/Trabalho3_BBDBLM_Item4.doc)**, **[Trabalho3_BBDBLM_Item4.pdf](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/pdf/Trabalho3_BBDBLM_Item4.pdf)** | Solução da quarta tarefa do trabalho
+**[Trabalho3_BBDBLM_Item5.doc](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/doc/Trabalho3_BBDBLM_Item5.doc)**, **[Trabalho3_BBDBLM_Item5.pdf](https://github.com/danielamaksoud/INF1413-T3/blob/master/Tarefas/pdf/Trabalho3_BBDBLM_Item5.pdf)** | Solução da quinta tarefa do trabalho
 
 
 ### Referências ###
